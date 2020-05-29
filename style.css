@@ -1,0 +1,14 @@
+.name1 {
+  width: 400px;
+  margin: 100px 100px 100px 250px 
+}
+
+.img-with-text {
+    text-align: justify;
+    width: [400];
+}
+ 
+.img-with-text img {
+    display: block;
+    margin: 0 0 auto;
+}
